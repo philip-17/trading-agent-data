@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-07-03T11:07:30",
+  "window": {
+    "start": "2023-07-03",
+    "end": "2026-07-02",
+    "years": 3
+  },
+  "tickers": [
+    "CCJ",
+    "GOOGL",
+    "META",
+    "NVDA"
+  ],
+  "strategy": {
+    "final_equity": 1371908.86,
+    "total_return_pct": 37.19,
+    "cagr_pct": 11.12,
+    "max_drawdown_pct": 11.05,
+    "sharpe": 1.07,
+    "trades": 66,
+    "win_rate_pct": 40.9,
+    "profit_factor": 2.18,
+    "open_positions_end": 0
+  },
+  "spy_buy_hold": {
+    "total_return_pct": 67.37,
+    "cagr_pct": 18.74,
+    "max_drawdown_pct": 19.0
+  },
+  "tickers_excluded": [
+    "SPCX"
+  ]
+}

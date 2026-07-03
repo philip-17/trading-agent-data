@@ -1,0 +1,70 @@
+{
+  "date": "2026-07-02",
+  "regime": {
+    "vix": 16.54,
+    "spy_above_sma200": true,
+    "trading_allowed": true
+  },
+  "portfolio": {
+    "capital_initial": 1000000.0,
+    "cash": 1000000.0,
+    "equity": 1000000.0,
+    "pnl_total_pct": 0.0,
+    "max_drawdown_pct": 0.0
+  },
+  "positions": [],
+  "signals_today": [],
+  "watchlist": [
+    {
+      "ticker": "GOOGL",
+      "conditions_met": "4/6",
+      "missing": [
+        "ema20>sma50",
+        "volume>=1.2x"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "conditions_met": "3/6",
+      "missing": [
+        "ema20>sma50",
+        "rsi_45_70",
+        "volume>=1.2x"
+      ]
+    },
+    {
+      "ticker": "META",
+      "conditions_met": "3/6",
+      "missing": [
+        "close>sma200",
+        "ema20>sma50",
+        "volume>=1.2x"
+      ]
+    },
+    {
+      "ticker": "CCJ",
+      "conditions_met": "2/6",
+      "missing": [
+        "close>sma200",
+        "ema20>sma50",
+        "rsi_45_70",
+        "volume>=1.2x"
+      ]
+    },
+    {
+      "ticker": "SPCX",
+      "conditions_met": "0/6",
+      "missing": [
+        "no_data"
+      ]
+    }
+  ],
+  "equity_curve": [
+    {
+      "date": "2026-07-02",
+      "equity": 1000000.0,
+      "spy_norm": 1000000.0
+    }
+  ],
+  "journal_last10": []
+}
