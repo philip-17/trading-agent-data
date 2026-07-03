@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T11:07:30",
+  "generated_at": "2026-07-03T12:33:16",
   "window": {
     "start": "2023-07-03",
     "end": "2026-07-02",
@@ -12,20 +12,20 @@
     "NVDA"
   ],
   "strategy": {
-    "final_equity": 1371908.86,
-    "total_return_pct": 37.19,
-    "cagr_pct": 11.12,
-    "max_drawdown_pct": 11.05,
-    "sharpe": 1.07,
+    "final_equity": 1390828.65,
+    "total_return_pct": 39.08,
+    "cagr_pct": 11.63,
+    "max_drawdown_pct": 11.01,
+    "sharpe": 1.11,
     "trades": 66,
     "win_rate_pct": 40.9,
-    "profit_factor": 2.18,
+    "profit_factor": 2.3,
     "open_positions_end": 0
   },
   "spy_buy_hold": {
-    "total_return_pct": 67.37,
-    "cagr_pct": 18.74,
-    "max_drawdown_pct": 19.0
+    "total_return_pct": 74.2,
+    "cagr_pct": 20.34,
+    "max_drawdown_pct": 18.76
   },
   "tickers_excluded": [
     "SPCX"

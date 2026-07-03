@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "regime": {
-    "vix": 16.54,
+    "vix": 16.15,
     "spy_above_sma200": true,
     "trading_allowed": true
   },
